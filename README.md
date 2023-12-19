@@ -11,7 +11,7 @@ Prepare the lists from each inverse of matrix and assign in np.array()
 ### Step 3:
 Using the np.linalg.inv(a), we can find the rank of the given matrix.
 ### Step 4: 
-End the program
+End the program.
 
 ## Program:
 ~~~
